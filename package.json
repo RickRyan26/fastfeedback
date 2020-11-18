@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "fastfeedback",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,14 @@
     "next": "10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "description": "react2025",
+  "main": "index.js",
+  "repository": "git+ssh://git@github.com/RickRyan26/fastfeedback.git",
+  "author": "RickRyan26 <rickryan26@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickRyan26/fastfeedback/issues"
+  },
+  "homepage": "https://github.com/RickRyan26/fastfeedback#readme"
 }
