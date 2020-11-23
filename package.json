@@ -1,0 +1,32 @@
+{
+  "name": "fastfeedback",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "debug": "NODE_OPTIONS='--inspect' next dev"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.0",
+    "@chakra-ui/react": "^1.0.0",
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "firebase": "^8.0.2",
+    "framer-motion": "^2.9.4",
+    "next": "10.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-hook-form": "^6.11.3"
+  },
+  "description": "react2025",
+  "main": "index.js",
+  "repository": "git+ssh://git@github.com/RickRyan26/fastfeedback.git",
+  "author": "RickRyan26 <rickryan26@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RickRyan26/fastfeedback/issues"
+  },
+  "homepage": "https://github.com/RickRyan26/fastfeedback#readme"
+}
