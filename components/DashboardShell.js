@@ -8,10 +8,10 @@ import {
   Button,
   Flex,
   Link,
-  Avatar,
-  Icon
+  Avatar
 } from '@chakra-ui/react';
 
+import { Logo } from '@/styles/icons';
 import { useAuth } from '@/lib/auth';
 
 const DashboardShell = ({ children }) => {
@@ -31,7 +31,7 @@ const DashboardShell = ({ children }) => {
           px={8}
         >
           <Flex>
-            <Icon name="logo" size="24px" mr={8} />
+            <Logo w="24px" h="24px" mr={8} />
             <Link mr={4}>Sites</Link>
             <Link>Feedback</Link>
           </Flex>
